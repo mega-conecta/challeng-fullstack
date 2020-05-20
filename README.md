@@ -1,4 +1,4 @@
-# Challenge Full-stack - Mega  #
+# Challenge Full-stack - Mega Conecta #
 
 ## Desafio ##
 O objetivo desse desafio é desenvolver uma aplicação de perguntas e respostas, tal como fóruns da internet, Reddit, etc.
